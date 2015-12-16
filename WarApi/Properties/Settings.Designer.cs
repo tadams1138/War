@@ -27,8 +27,8 @@ namespace WarApi.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
         [global::System.Configuration.DefaultSettingValueAttribute("Server=tcp:warapi.database.windows.net,1433;Database=WarApi_Test;User ID=tandisof" +
-            "twarapidbserveradmin@warapi;Password={your_password_here};Encrypt=True;TrustServ" +
-            "erCertificate=False;Connection Timeout=30;")]
+            "twarapi_test@warapi;Password=n3OvjcOd{bhO{y xa~auue{ msFT7_#$!~5el:mdlqih`;Encry" +
+            "pt=True;TrustServerCertificate=False;Connection Timeout=30;")]
         public string WarDb {
             get {
                 return ((string)(this["WarDb"]));
