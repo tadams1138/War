@@ -6,7 +6,6 @@
       <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;ConnectionString&gt;Server=tcp:warapi.database.windows.net,1433;Database=WarApi_Test;User ID=tandisoftwarapi_test@warapi;Password=n3OvjcOd{bhO{y xa~auue{ msFT7_#$!~5el:mdlqih`;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;&lt;/ConnectionString&gt;
-  &lt;ProviderName /&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Server=tcp:warapi.database.windows.net,1433;Database=WarApi_Test;User ID=tandisoftwarapi_test@warapi;Password=n3OvjcOd{bhO{y xa~auue{ msFT7_#$!~5el:mdlqih`;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
     </Setting>
